@@ -6,7 +6,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
 
 # Cấu hình
-groq_api_key = "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"
+groq_api_key = "YOUR_API_KEY"
 vector_db_path = "vectorstores/db_faiss"
 
 # Load Language Model qua Groq API
